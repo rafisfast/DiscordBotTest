@@ -29,4 +29,4 @@ client.on('message', message => {
     }
 });
 
-client.login('ODY3NzcwMTkyMjgzOTU5MzM2.YPl7-A.Kmm6aq3Ipkj-Ylf3zDN0XsrFTTE');
+client.login('#');
